@@ -1,2 +1,1 @@
-# Dairenin-Alanini-Hesaplayan-Program
-# Dairenin-Alanini-Hesaplayan-Program
+[patika.dev linkim](https://app.patika.dev/medgicakir)
